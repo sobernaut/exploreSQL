@@ -1,0 +1,22 @@
+{
+  "name": "exploresql",
+  "version": "1.0.0",
+  "description": "practice sql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sobernaut/exploreSQL.git"
+  },
+  "author": "sobernaut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sobernaut/exploreSQL/issues"
+  },
+  "homepage": "https://github.com/sobernaut/exploreSQL#readme",
+  "dependencies": {
+    "pg": "^7.11.0"
+  }
+}
